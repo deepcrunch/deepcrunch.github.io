@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 title : deepcrunch
+=======
+title : DeepCrunch
+>>>>>>> e186a2bf6352f56247cb540ee0490ed5f1f23add
 description: 'Deep Crunch Awesome Blog'
 
 markdown: kramdown
